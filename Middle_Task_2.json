@@ -1,0 +1,3195 @@
+[
+	{
+		"name": "Бумер",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1249172/",
+		"film_rating": "6.97",
+		"votes": "186 462",
+		"date": "2022-04-21",
+		"company": "Наше Кино",
+		"genresk": [
+			"фэнтези",
+			" приключения",
+			" комедия",
+			" семейный"
+		]
+	},
+	{
+		"name": "Королевская битва",
+		"name_eng": "Batoru rowaiaru ",
+		"film_link": "https://www.kinopoisk.ru/film/976642/",
+		"film_rating": "7.51",
+		"votes": "37 104",
+		"date": "2022-04-21",
+		"company": "Arna Media",
+		"genresk": [
+			"комедия",
+			" фэнтези",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Бумер: Фильм второй",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1272246/",
+		"film_rating": "6.04",
+		"votes": "74 630",
+		"date": "2022-04-21",
+		"company": "Наше Кино",
+		"genresk": [
+			"приключения",
+			" комедия",
+			" фэнтези"
+		]
+	},
+	{
+		"name": "Казнь",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/13852/",
+		"wait_rating": "98%",
+		"votes": "5440",
+		"date": "2022-04-21",
+		"company": "Вольга",
+		"genresk": [
+			"драма",
+			" комедия",
+			" криминал"
+		]
+	},
+	{
+		"name": "Слэпфейс",
+		"name_eng": "Slapface ",
+		"film_link": "https://www.kinopoisk.ru/film/780468/",
+		"film_rating": "4.62",
+		"votes": "249",
+		"date": "2022-04-21",
+		"company": "Кинологистика",
+		"genresk": [
+			"мелодрама"
+		]
+	},
+	{
+		"name": "Оторви и выбрось",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/2043233/",
+		"wait_rating": "97%",
+		"votes": "2359",
+		"date": "2022-04-21",
+		"company": "Про:взгляд",
+		"genresk": [
+			"аниме",
+			" мультфильм",
+			" фантастика",
+			" драма",
+			" музыка"
+		]
+	},
+	{
+		"name": "Отчаянные мстители",
+		"name_eng": "Freaks Out ",
+		"film_link": "https://www.kinopoisk.ru/film/4445709/",
+		"film_rating": "6.15",
+		"votes": "461",
+		"date": "2022-04-21",
+		"company": "Ракета Релизинг",
+		"genresk": [
+			"мультфильм",
+			" фэнтези",
+			" боевик"
+		]
+	},
+	{
+		"name": "Первый Оскар",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1354764/",
+		"film_rating": "—",
+		"votes": "531",
+		"date": "2022-04-21",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"фантастика",
+			" триллер"
+		]
+	},
+	{
+		"name": "Тед К. Унабомбер",
+		"name_eng": "Ted K ",
+		"film_link": "https://www.kinopoisk.ru/film/1390671/",
+		"film_rating": "5.86",
+		"votes": "223",
+		"date": "2022-04-21",
+		"company": "Парадиз",
+		"genresk": [
+			"драма",
+			" криминал"
+		]
+	},
+	{
+		"name": "Этот новый мир",
+		"name_eng": "La croisade ",
+		"film_link": "https://www.kinopoisk.ru/film/1220209/",
+		"film_rating": "—",
+		"votes": "85",
+		"date": "2022-04-21",
+		"company": "A-One Films",
+		"genresk": [
+			"боевик",
+			" триллер",
+			" криминал",
+			" детектив"
+		]
+	},
+	{
+		"name": "Стикер",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4324950/",
+		"wait_rating": "—",
+		"votes": "324",
+		"date": "2022-04-21",
+		"company": "Каропрокат",
+		"genresk": [
+			"драма",
+			" триллер"
+		]
+	},
+	{
+		"name": "Призраки квартиры 203",
+		"name_eng": "Room 203 ",
+		"film_link": "https://www.kinopoisk.ru/film/1121828/",
+		"film_rating": "—",
+		"votes": "4",
+		"date": "2022-04-21",
+		"company": "Экспонента",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Узник",
+		"name_eng": "Kaithi ",
+		"film_link": "https://www.kinopoisk.ru/film/4422727/",
+		"film_rating": "—",
+		"votes": "22",
+		"date": "2022-04-21",
+		"company": "Indian Films",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "До встречи с Грейс",
+		"name_eng": "Getting Grace ",
+		"film_link": "https://www.kinopoisk.ru/film/4536578/",
+		"film_rating": "—",
+		"votes": "9",
+		"date": "2022-04-21",
+		"company": "СБ Фильм",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Братцы Кролики: Пасхальный переполох",
+		"name_eng": "Die Häschenschule - Der große Eierklau ",
+		"film_link": "https://www.kinopoisk.ru/film/1289764/",
+		"film_rating": "—",
+		"votes": "28",
+		"date": "2022-04-21",
+		"company": "MDfilm",
+		"genresk": [
+			"боевик",
+			" драма",
+			" криминал"
+		]
+	},
+	{
+		"name": "Джерси",
+		"name_eng": "Jersey ",
+		"film_link": "https://www.kinopoisk.ru/film/917795/",
+		"film_rating": "—",
+		"votes": "15",
+		"date": "2022-04-22",
+		"company": "Indian Films",
+		"genresk": [
+			"драма",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Волк с Уолл-стрит",
+		"name_eng": "The Wolf of Wall Street ",
+		"film_link": "https://www.kinopoisk.ru/film/4317395/",
+		"film_rating": "7.92",
+		"votes": "858 587",
+		"date": "2022-04-28",
+		"company": "Планета Информ",
+		"genresk": [
+			"комедия",
+			" криминал",
+			" мелодрама"
+		]
+	},
+	{
+		"name": "Вивариум",
+		"name_eng": "Vivarium ",
+		"film_link": "https://www.kinopoisk.ru/film/1269598/",
+		"film_rating": "6.07",
+		"votes": "28 958",
+		"date": "2022-04-28",
+		"company": "Russian World Vision",
+		"genresk": [
+			"военный",
+			" драма"
+		]
+	},
+	{
+		"name": "Белль и Себастьян",
+		"name_eng": "Belle et Sébastien ",
+		"film_link": "https://www.kinopoisk.ru/film/4308936/",
+		"film_rating": "7.64",
+		"votes": "20 979",
+		"date": "2022-04-28",
+		"company": "Пионер",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Команда мечты",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4907342/",
+		"film_rating": "5.22",
+		"votes": "1 612",
+		"date": "2022-04-28",
+		"company": "Молодёжные инициативы",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Семь пар нечистых",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4903616/",
+		"film_rating": "5.87",
+		"votes": "4 078",
+		"date": "2022-04-28",
+		"company": "Кинологистика",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Italian Best Shorts 3: Итальянские фантазии",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1349639/",
+		"film_rating": "6.40",
+		"votes": "434",
+		"date": "2022-04-28",
+		"company": "ПилотКино",
+		"genresk": [
+			"боевик",
+			" триллер",
+			" криминал"
+		]
+	},
+	{
+		"name": "Бука. Мое любимое чудище",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/57166/",
+		"wait_rating": "82%",
+		"votes": "1225",
+		"date": "2022-04-28",
+		"company": "Вольга",
+		"genresk": [
+			"драма",
+			" криминал"
+		]
+	},
+	{
+		"name": "Артек. Большое путешествие",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/604/",
+		"wait_rating": "83%",
+		"votes": "1863",
+		"date": "2022-04-28",
+		"company": "Наше Кино",
+		"genresk": [
+			"боевик",
+			" триллер",
+			" фантастика",
+			" драма"
+		]
+	},
+	{
+		"name": "Пост Мортем",
+		"name_eng": "Post Mortem ",
+		"film_link": "https://www.kinopoisk.ru/film/79883/",
+		"film_rating": "5.67",
+		"votes": "1 163",
+		"date": "2022-04-28",
+		"company": "Capella Film",
+		"genresk": [
+			"драма",
+			" криминал"
+		]
+	},
+	{
+		"name": "Операция «Мясной фарш»",
+		"name_eng": "Operation Mincemeat ",
+		"film_link": "https://www.kinopoisk.ru/film/1405778/",
+		"film_rating": "—",
+		"votes": "77",
+		"date": "2022-04-28",
+		"company": "Парадиз",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Злость",
+		"name_eng": "Adverse ",
+		"film_link": "https://www.kinopoisk.ru/film/1282907/",
+		"film_rating": "4.72",
+		"votes": "155",
+		"date": "2022-04-28",
+		"company": "Plan B",
+		"genresk": [
+			"ужасы",
+			" триллер"
+		]
+	},
+	{
+		"name": "1941. Крылья над Берлином",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1251147/",
+		"wait_rating": "96%",
+		"votes": "627",
+		"date": "2022-04-28",
+		"company": "Каропрокат",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Крио",
+		"name_eng": "Cryo ",
+		"film_link": "https://www.kinopoisk.ru/film/1059104/",
+		"wait_rating": "—",
+		"votes": "121",
+		"date": "2022-04-28",
+		"company": "Ten Letters",
+		"genresk": [
+			"фэнтези",
+			" драма",
+			" приключения",
+			" военный"
+		]
+	},
+	{
+		"name": "Отчаянные дольщики",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1451291/",
+		"wait_rating": "—",
+		"votes": "259",
+		"date": "2022-04-28",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"драма",
+			" военный",
+			" история"
+		]
+	},
+	{
+		"name": "Лето 1941 года",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1143595/",
+		"wait_rating": "—",
+		"votes": "51",
+		"date": "2022-04-28",
+		"company": "Cinemaus Studio",
+		"genresk": [
+			"биография",
+			" драма",
+			" криминал"
+		]
+	},
+	{
+		"name": "Полоса 34",
+		"name_eng": "Runway 34 ",
+		"film_link": "https://www.kinopoisk.ru/film/4366726/",
+		"wait_rating": "—",
+		"votes": "22",
+		"date": "2022-04-29",
+		"company": "АНО «СИТА»",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Суворов: Великое путешествие",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4902867/",
+		"wait_rating": "85%",
+		"votes": "935",
+		"date": "2022-05-01",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"мелодрама",
+			" детектив",
+			" триллер"
+		]
+	},
+	{
+		"name": "Дочь фараона",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1408166/",
+		"wait_rating": "—",
+		"votes": "22",
+		"date": "2022-05-01",
+		"company": "CoolConnections",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Зеленая книга",
+		"name_eng": "Green Book ",
+		"film_link": "https://www.kinopoisk.ru/film/1261594/",
+		"film_rating": "8.35",
+		"votes": "617 276",
+		"date": "2022-05-05",
+		"company": "Capella Film",
+		"genresk": [
+			"боевик",
+			" триллер",
+			" криминал"
+		]
+	},
+	{
+		"name": "Телохранитель киллера",
+		"name_eng": "The Hitman's Bodyguard ",
+		"film_link": "https://www.kinopoisk.ru/film/978756/",
+		"film_rating": "6.85",
+		"votes": "208 448",
+		"date": "2022-05-05",
+		"company": "MDfilm",
+		"genresk": [
+			"драма",
+			" комедия"
+		]
+	},
+	{
+		"name": "Брестская крепость",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1417930/",
+		"film_rating": "7.98",
+		"votes": "128 409",
+		"date": "2022-05-05",
+		"company": "Наше Кино",
+		"genresk": [
+			"мультфильм",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Подольские курсанты",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1291348/",
+		"film_rating": "7.17",
+		"votes": "44 232",
+		"date": "2022-05-05",
+		"company": "Наше Кино",
+		"genresk": [
+			"драма",
+			" спорт"
+		]
+	},
+	{
+		"name": "Телохранитель жены киллера",
+		"name_eng": "Hitman's Wife's Bodyguard ",
+		"film_link": "https://www.kinopoisk.ru/film/462682/",
+		"film_rating": "6.12",
+		"votes": "68 925",
+		"date": "2022-05-05",
+		"company": "MDfilm",
+		"genresk": [
+			"драма",
+			" криминал",
+			" биография",
+			" комедия"
+		]
+	},
+	{
+		"name": "Коридор бессмертия",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1118663/",
+		"film_rating": "6.68",
+		"votes": "11 574",
+		"date": "2022-05-05",
+		"company": "Стелла-Релиз",
+		"genresk": [
+			"фантастика",
+			" драма"
+		]
+	},
+	{
+		"name": "Доктор Стрэндж: В мультивселенной безумия",
+		"name_eng": "Doctor Strange in the Multiverse of Madness ",
+		"film_link": "https://www.kinopoisk.ru/film/794620/",
+		"wait_rating": "96%",
+		"votes": "71025",
+		"date": "2022-05-05",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"драма",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Хэллбендер",
+		"name_eng": "Hellbender ",
+		"film_link": "https://www.kinopoisk.ru/film/1162626/",
+		"film_rating": "5.18",
+		"votes": "345",
+		"date": "2022-05-05",
+		"company": "Кинологистика",
+		"genresk": [
+			"семейный",
+			" комедия",
+			" мелодрама",
+			" приключения",
+			" спорт"
+		]
+	},
+	{
+		"name": "Аббатство Даунтон 2",
+		"name_eng": "Downton Abbey: A New Era ",
+		"film_link": "https://www.kinopoisk.ru/film/984366/",
+		"film_rating": "—",
+		"votes": "82",
+		"date": "2022-05-05",
+		"company": "UPI",
+		"genresk": [
+			"боевик",
+			" драма",
+			" военный",
+			" приключения"
+		]
+	},
+	{
+		"name": "Супергерои",
+		"name_eng": "Supereroi ",
+		"film_link": "https://www.kinopoisk.ru/film/1252262/",
+		"film_rating": "—",
+		"votes": "50",
+		"date": "2022-05-05",
+		"company": "Про:взгляд",
+		"genresk": [
+			"короткометражка"
+		]
+	},
+	{
+		"name": "Где Анна Франк",
+		"name_eng": "Where Is Anne Frank ",
+		"film_link": "https://www.kinopoisk.ru/film/893508/",
+		"film_rating": "—",
+		"votes": "68",
+		"date": "2022-05-05",
+		"company": "Русский Репортаж",
+		"genresk": [
+			"мультфильм",
+			" приключения",
+			" фэнтези",
+			" семейный"
+		]
+	},
+	{
+		"name": "Проклятие плачущей: Безвременье",
+		"name_eng": "The Nameless Days ",
+		"film_link": "https://www.kinopoisk.ru/film/1291197/",
+		"film_rating": "—",
+		"votes": "960",
+		"date": "2022-05-05",
+		"company": "World Pictures",
+		"genresk": [
+			"комедия",
+			" семейный"
+		]
+	},
+	{
+		"name": "Флай",
+		"name_eng": "Fly ",
+		"film_link": "https://www.kinopoisk.ru/film/1247350/",
+		"film_rating": "—",
+		"votes": "7",
+		"date": "2022-05-05",
+		"company": "Про:взгляд",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Вечеринка на вылет",
+		"name_eng": "Murder Party ",
+		"film_link": "https://www.kinopoisk.ru/film/650762/",
+		"film_rating": "—",
+		"votes": "8",
+		"date": "2022-05-05",
+		"company": "Arna Media",
+		"genresk": [
+			"драма",
+			" военный"
+		]
+	},
+	{
+		"name": "Война Раи Синициной",
+		"name_eng": "Milchamta shel Raya Sinitsina ",
+		"film_link": "https://www.kinopoisk.ru/film/1165161/",
+		"film_rating": "—",
+		"votes": "26",
+		"date": "2022-05-05",
+		"company": "Самокат",
+		"genresk": [
+			"триллер",
+			" криминал"
+		]
+	},
+	{
+		"name": "Моцарт «Дон Жуан». Генеральная репетиция",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4533880/",
+		"wait_rating": "—",
+		"votes": "3",
+		"date": "2022-05-11",
+		"company": "TheatreHD",
+		"genresk": [
+			"военный",
+			" боевик"
+		]
+	},
+	{
+		"name": "Кофе и сигареты",
+		"name_eng": "Coffee and Cigarettes ",
+		"film_link": "https://www.kinopoisk.ru/film/1181444/",
+		"film_rating": "7.52",
+		"votes": "39 067",
+		"date": "2022-05-12",
+		"company": "Иноекино",
+		"genresk": [
+			"фантастика",
+			" триллер",
+			" детектив"
+		]
+	},
+	{
+		"name": "Волк",
+		"name_eng": "Wolf ",
+		"film_link": "https://www.kinopoisk.ru/film/4473129/",
+		"film_rating": "5.52",
+		"votes": "396",
+		"date": "2022-05-12",
+		"company": "Артхаус",
+		"genresk": [
+			"комедия",
+			" криминал"
+		]
+	},
+	{
+		"name": "Флешбэк",
+		"name_eng": "Memory ",
+		"film_link": "https://www.kinopoisk.ru/film/4900713/",
+		"wait_rating": "97%",
+		"votes": "786",
+		"date": "2022-05-12",
+		"company": "Magic Film Company",
+		"genresk": [
+			"военный",
+			" боевик"
+		]
+	},
+	{
+		"name": "Улей",
+		"name_eng": "Hive ",
+		"film_link": "https://www.kinopoisk.ru/film/1446942/",
+		"film_rating": "—",
+		"votes": "97",
+		"date": "2022-05-12",
+		"company": "MDfilm",
+		"genresk": [
+			"триллер",
+			" драма",
+			" детектив"
+		]
+	},
+	{
+		"name": "Ботан и супербаба",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/882288/",
+		"wait_rating": "37%",
+		"votes": "2608",
+		"date": "2022-05-12",
+		"company": "Capella Film",
+		"genresk": [
+			"мультфильм",
+			" приключения",
+			" история"
+		]
+	},
+	{
+		"name": "Воспламеняющая взглядом",
+		"name_eng": "Firestarter ",
+		"film_link": "https://www.kinopoisk.ru/film/4634756/",
+		"wait_rating": "97%",
+		"votes": "1128",
+		"date": "2022-05-12",
+		"company": "Каропрокат",
+		"genresk": [
+			"музыка"
+		]
+	},
+	{
+		"name": "Грешное тело",
+		"name_eng": "Body of Sin ",
+		"film_link": "https://www.kinopoisk.ru/film/1108577/",
+		"film_rating": "—",
+		"votes": "92",
+		"date": "2022-05-12",
+		"company": "UPI",
+		"genresk": [
+			"биография",
+			" комедия",
+			" драма"
+		]
+	},
+	{
+		"name": "Заклятье: Спуск к дьяволу",
+		"name_eng": "The Cellar ",
+		"film_link": "https://www.kinopoisk.ru/film/835877/",
+		"film_rating": "—",
+		"votes": "211",
+		"date": "2022-05-12",
+		"company": "СБ Фильм",
+		"genresk": [
+			"боевик",
+			" комедия"
+		]
+	},
+	{
+		"name": "Сияющая звезда",
+		"name_eng": "Geukjangpan syainingseuta: saeroun runakwonui tansaeng! ",
+		"film_link": "https://www.kinopoisk.ru/film/436263/",
+		"film_rating": "—",
+		"votes": "52",
+		"date": "2022-05-12",
+		"company": "Экспонента",
+		"genresk": [
+			"военный",
+			" боевик",
+			" драма",
+			" история"
+		]
+	},
+	{
+		"name": "Эскортницы",
+		"name_eng": "Dziewczyny z Dubaju ",
+		"film_link": "https://www.kinopoisk.ru/film/1191022/",
+		"film_rating": "—",
+		"votes": "89",
+		"date": "2022-05-12",
+		"company": "Кинологистика",
+		"genresk": [
+			"военный",
+			" драма",
+			" история",
+			" боевик"
+		]
+	},
+	{
+		"name": "Этому быть!",
+		"name_eng": "Presque ",
+		"film_link": "https://www.kinopoisk.ru/film/1125418/",
+		"film_rating": "—",
+		"votes": "11",
+		"date": "2022-05-12",
+		"company": "Наше Кино",
+		"genresk": [
+			"боевик",
+			" комедия"
+		]
+	},
+	{
+		"name": "Дышите свободно",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/893835/",
+		"wait_rating": "—",
+		"votes": "86",
+		"date": "2022-05-12",
+		"company": "Парадиз",
+		"genresk": [
+			"драма",
+			" военный",
+			" история"
+		]
+	},
+	{
+		"name": "Приманка для акулы",
+		"name_eng": "Shark Bait ",
+		"film_link": "https://www.kinopoisk.ru/film/1219909/",
+		"wait_rating": "—",
+		"votes": "25",
+		"date": "2022-05-12",
+		"company": "Наше Кино",
+		"genresk": [
+			"ужасы",
+			" фантастика",
+			" фэнтези",
+			" боевик",
+			" приключения"
+		]
+	},
+	{
+		"name": "Тайна амулета",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4524632/",
+		"wait_rating": "—",
+		"votes": "34",
+		"date": "2022-05-12",
+		"company": "Экспонента",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Стриптизёрши",
+		"name_eng": "Hustlers ",
+		"film_link": "https://www.kinopoisk.ru/film/4360992/",
+		"film_rating": "5.90",
+		"votes": "52 804",
+		"date": "2022-05-19",
+		"company": "Ten Letters",
+		"genresk": [
+			"драма",
+			" мелодрама"
+		]
+	},
+	{
+		"name": "Начни сначала",
+		"name_eng": "Second Act ",
+		"film_link": "https://www.kinopoisk.ru/film/1291593/",
+		"film_rating": "6.24",
+		"votes": "38 335",
+		"date": "2022-05-19",
+		"company": "MDfilm",
+		"genresk": [
+			"драма",
+			" мелодрама",
+			" комедия"
+		]
+	},
+	{
+		"name": "Особые приметы: красавчик",
+		"name_eng": "Segni particolari: bellissimo ",
+		"film_link": "https://www.kinopoisk.ru/film/819722/",
+		"film_rating": "7.36",
+		"votes": "2 959",
+		"date": "2022-05-19",
+		"company": "MDfilm",
+		"genresk": [
+			"мультфильм",
+			" драма",
+			" семейный",
+			" история"
+		]
+	},
+	{
+		"name": "Будь моими глазами",
+		"name_eng": "Mira por mí ",
+		"film_link": "https://www.kinopoisk.ru/film/1308438/",
+		"film_rating": "5.46",
+		"votes": "195",
+		"date": "2022-05-19",
+		"company": "ПилотКино",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Суперпитомцы",
+		"name_eng": "DC League of Super-Pets ",
+		"film_link": "https://www.kinopoisk.ru/film/1328526/",
+		"wait_rating": "98%",
+		"votes": "2162",
+		"date": "2022-05-19",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"драма",
+			" музыка"
+		]
+	},
+	{
+		"name": "Супер Майки",
+		"name_eng": "Onze jongens in Miami ",
+		"film_link": "https://www.kinopoisk.ru/film/4369515/",
+		"film_rating": "—",
+		"votes": "69",
+		"date": "2022-05-19",
+		"company": "UPI",
+		"genresk": [
+			"комедия",
+			" детектив"
+		]
+	},
+	{
+		"name": "Двойник",
+		"name_eng": "Dual ",
+		"film_link": "https://www.kinopoisk.ru/film/4473142/",
+		"film_rating": "—",
+		"votes": "18",
+		"date": "2022-05-19",
+		"company": "Ten Letters",
+		"genresk": [
+			"документальный"
+		]
+	},
+	{
+		"name": "Крутые яйца 2",
+		"name_eng": "Un rescate de huevitos ",
+		"film_link": "https://www.kinopoisk.ru/film/4913464/",
+		"film_rating": "—",
+		"votes": "26",
+		"date": "2022-05-19",
+		"company": "Экспонента",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Решала: Брат",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/61207/",
+		"wait_rating": "—",
+		"votes": "126",
+		"date": "2022-05-19",
+		"company": "World Pictures",
+		"genresk": [
+			"драма",
+			" комедия",
+			" музыка"
+		]
+	},
+	{
+		"name": "Окончательный монтаж",
+		"name_eng": "Z ",
+		"film_link": "https://www.kinopoisk.ru/film/1346640/",
+		"wait_rating": "—",
+		"votes": "73",
+		"date": "2022-05-19",
+		"company": "Парадиз",
+		"genresk": [
+			"триллер",
+			" мелодрама"
+		]
+	},
+	{
+		"name": "Марадона. Гибель бога",
+		"name_eng": "La Muerte De Dios ",
+		"film_link": "https://www.kinopoisk.ru/film/1355142/",
+		"film_rating": "",
+		"votes": "15",
+		"date": "2022-05-19",
+		"company": "Russian World Vision",
+		"genresk": [
+			"боевик",
+			" триллер"
+		]
+	},
+	{
+		"name": "Война и мир",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4355997/",
+		"wait_rating": "—",
+		"votes": "26918",
+		"date": "2022-05-20",
+		"company": "Наше Кино",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Топ Ган: Мэверик",
+		"name_eng": "Top Gun: Maverick ",
+		"film_link": "https://www.kinopoisk.ru/film/4432433/",
+		"wait_rating": "89%",
+		"votes": "690",
+		"date": "2022-05-26",
+		"company": "Ракета Релизинг",
+		"genresk": [
+			"комедия",
+			" фантастика"
+		]
+	},
+	{
+		"name": "Точка кипения",
+		"name_eng": "Boiling Point ",
+		"film_link": "https://www.kinopoisk.ru/film/577284/",
+		"film_rating": "6.98",
+		"votes": "463",
+		"date": "2022-05-26",
+		"company": "TheatreHD",
+		"genresk": [
+			"ужасы",
+			" фантастика",
+			" триллер",
+			" драма"
+		]
+	},
+	{
+		"name": "Закусочная Боба. Фильм",
+		"name_eng": "The Bob's Burgers Movie ",
+		"film_link": "https://www.kinopoisk.ru/film/1009672/",
+		"wait_rating": "94%",
+		"votes": "718",
+		"date": "2022-05-26",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"триллер",
+			" криминал",
+			" приключения"
+		]
+	},
+	{
+		"name": "Криминальный город 2",
+		"name_eng": "Beomjoе dosi 2 ",
+		"film_link": "https://www.kinopoisk.ru/film/4440662/",
+		"wait_rating": "99%",
+		"votes": "34",
+		"date": "2022-05-26",
+		"company": "Capella Film",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Главная роль",
+		"name_eng": "Competencia oficial ",
+		"film_link": "https://www.kinopoisk.ru/film/1278744/",
+		"film_rating": "—",
+		"votes": "203",
+		"date": "2022-05-26",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"мультфильм",
+			" музыка"
+		]
+	},
+	{
+		"name": "Аманат",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1356700/",
+		"wait_rating": "—",
+		"votes": "119",
+		"date": "2022-05-26",
+		"company": "Парадиз",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Отряд «Призрак»",
+		"name_eng": "A Day to Die ",
+		"film_link": "https://www.kinopoisk.ru/film/4499697/",
+		"film_rating": "—",
+		"votes": "34",
+		"date": "2022-05-26",
+		"company": "Про:взгляд",
+		"genresk": [
+			"драма",
+			" комедия"
+		]
+	},
+	{
+		"name": "Остров призраков",
+		"name_eng": "Shepherd ",
+		"film_link": "https://www.kinopoisk.ru/film/4476197/",
+		"film_rating": "—",
+		"votes": "282",
+		"date": "2022-05-26",
+		"company": "Каропрокат",
+		"genresk": [
+			"мелодрама"
+		]
+	},
+	{
+		"name": "Снежная королева 5",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1411649/",
+		"wait_rating": "—",
+		"votes": "39",
+		"date": "2022-05-26",
+		"company": "MDfilm",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Ловец душ",
+		"name_eng": "Soul Assassin ",
+		"film_link": "https://www.kinopoisk.ru/film/4908022/",
+		"wait_rating": "—",
+		"votes": "929",
+		"date": "2022-05-26",
+		"company": "Экспонента",
+		"genresk": [
+			"семейный"
+		]
+	},
+	{
+		"name": "Святым тут не место",
+		"name_eng": "There Are No Saints ",
+		"film_link": "https://www.kinopoisk.ru/film/1200603/",
+		"wait_rating": "96%",
+		"votes": "4",
+		"date": "2022-05-27",
+		"company": "СППР",
+		"genresk": [
+			"комедия",
+			" криминал",
+			" драма"
+		]
+	},
+	{
+		"name": "Ненастоящий папа",
+		"name_eng": "Hoy se arregla el mundo ",
+		"film_link": "https://www.kinopoisk.ru/film/652758/",
+		"film_rating": "—",
+		"votes": "101",
+		"date": "2022-05-28",
+		"company": "MDfilm",
+		"genresk": [
+			"драма",
+			" мелодрама",
+			" комедия"
+		]
+	},
+	{
+		"name": "Коати. Легенда джунглей",
+		"name_eng": "Koati ",
+		"film_link": "https://www.kinopoisk.ru/film/146421/",
+		"film_rating": "—",
+		"votes": "809",
+		"date": "2022-06-01",
+		"company": "Кинологистика",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Три кота и море приключений",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1384406/",
+		"wait_rating": "—",
+		"votes": "435",
+		"date": "2022-06-01",
+		"company": "Ракета Релизинг",
+		"genresk": [
+			"триллер",
+			" драма",
+			" криминал",
+			" детектив"
+		]
+	},
+	{
+		"name": "Ника",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1189960/",
+		"wait_rating": "97%",
+		"votes": "133",
+		"date": "2022-06-01",
+		"company": "MDfilm",
+		"genresk": [
+			"мультфильм",
+			" фантастика",
+			" фэнтези",
+			" боевик",
+			" комедия",
+			" криминал",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Тибра",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1273764/",
+		"wait_rating": "—",
+		"votes": "1242",
+		"date": "2022-06-01",
+		"company": "Вольга",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Булки",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1378722/",
+		"wait_rating": "88%",
+		"votes": "9 510",
+		"date": "2022-06-02",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"фантастика",
+			" боевик"
+		]
+	},
+	{
+		"name": "Хиросима, моя любовь",
+		"name_eng": "Hiroshima mon amour ",
+		"film_link": "https://www.kinopoisk.ru/film/1138024/",
+		"film_rating": "8.01",
+		"votes": "92",
+		"date": "2022-06-02",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"мультфильм",
+			" фэнтези",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Дьулуур: Мас-рестлинг",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4888175/",
+		"wait_rating": "—",
+		"votes": "109",
+		"date": "2022-06-02",
+		"company": "Каропрокат",
+		"genresk": [
+			"боевик",
+			" драма",
+			" триллер"
+		]
+	},
+	{
+		"name": "Король-львенок",
+		"name_eng": "King ",
+		"film_link": "https://www.kinopoisk.ru/film/4413227/",
+		"film_rating": "—",
+		"votes": "498 116",
+		"date": "2022-06-02",
+		"company": "Russian World Vision",
+		"genresk": [
+			"ужасы",
+			" комедия"
+		]
+	},
+	{
+		"name": "Достучаться до небес",
+		"name_eng": "Knockin' on Heaven's Door ",
+		"film_link": "https://www.kinopoisk.ru/film/4868293/",
+		"film_rating": "8.63",
+		"votes": "253 538",
+		"date": "2022-06-09",
+		"company": "Молодёжные инициативы",
+		"genresk": [
+			"документальный"
+		]
+	},
+	{
+		"name": "Конёк-Горбунок",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4913478/",
+		"film_rating": "6.82",
+		"votes": "23919",
+		"date": "2022-06-09",
+		"company": "Экспонента",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Мир Юрского периода: Господство",
+		"name_eng": "Jurassic World Dominion ",
+		"film_link": "https://www.kinopoisk.ru/film/572032/",
+		"wait_rating": "94%",
+		"votes": "282",
+		"date": "2022-06-09",
+		"company": "Capella Film",
+		"genresk": [
+			"боевик",
+			" драма"
+		]
+	},
+	{
+		"name": "Не говори никому",
+		"name_eng": "Gæsterne ",
+		"film_link": "https://www.kinopoisk.ru/film/1332827/",
+		"film_rating": "—",
+		"votes": "4",
+		"date": "2022-06-09",
+		"company": "Наше Кино",
+		"genresk": [
+			"триллер",
+			" драма"
+		]
+	},
+	{
+		"name": "Одержимые",
+		"name_eng": "The Possessed ",
+		"film_link": "https://www.kinopoisk.ru/film/1049462/",
+		"wait_rating": "—",
+		"votes": "49",
+		"date": "2022-06-09",
+		"company": "UPI",
+		"genresk": [
+			"мультфильм",
+			" мюзикл",
+			" комедия",
+			" приключения"
+		]
+	},
+	{
+		"name": "Притхвирадж III",
+		"name_eng": "Prithviraj ",
+		"film_link": "https://www.kinopoisk.ru/film/1169291/",
+		"wait_rating": "—",
+		"votes": "163",
+		"date": "2022-06-10",
+		"company": "Capella Film",
+		"genresk": [
+			"криминал",
+			" боевик",
+			" триллер"
+		]
+	},
+	{
+		"name": "Последнее, что видела Мэри",
+		"name_eng": "The Last Thing Mary Saw ",
+		"film_link": "https://www.kinopoisk.ru/film/1344821/",
+		"film_rating": "4.66",
+		"votes": "3",
+		"date": "2022-06-16",
+		"company": "Кинологистика",
+		"genresk": [
+			"драма",
+			" комедия"
+		]
+	},
+	{
+		"name": "Каникулы в конном лагере",
+		"name_eng": "Horse Camp: A Love Tail ",
+		"film_link": "https://www.kinopoisk.ru/film/1112632/",
+		"film_rating": "—",
+		"votes": "42",
+		"date": "2022-06-16",
+		"company": "Indian Films",
+		"genresk": [
+			"биография",
+			" история",
+			" военный",
+			" драма"
+		]
+	},
+	{
+		"name": "Невидимый мир",
+		"name_eng": "La naissance des arbres ",
+		"film_link": "https://www.kinopoisk.ru/film/4422050/",
+		"film_rating": "—",
+		"votes": "88",
+		"date": "2022-06-16",
+		"company": "Экспонента",
+		"genresk": [
+			"боевик",
+			" криминал"
+		]
+	},
+	{
+		"name": "Mia and Me: Легенда Сентопии",
+		"name_eng": "The Hero of Centopia ",
+		"film_link": "https://www.kinopoisk.ru/film/1262016/",
+		"wait_rating": "—",
+		"votes": "71",
+		"date": "2022-06-16",
+		"company": "Кинологистика",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Дикие",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4756225/",
+		"wait_rating": "—",
+		"votes": "12",
+		"date": "2022-06-16",
+		"company": "Capella Film",
+		"genresk": [
+			"мультфильм"
+		]
+	},
+	{
+		"name": "Реки",
+		"name_eng": "River ",
+		"film_link": "https://www.kinopoisk.ru/film/4437750/",
+		"film_rating": "—",
+		"votes": "3 039",
+		"date": "2022-06-16",
+		"company": "Ten Letters",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Чёрный телефон",
+		"name_eng": "The Black Phone ",
+		"film_link": "https://www.kinopoisk.ru/film/522912/",
+		"film_rating": "—",
+		"votes": "208",
+		"date": "2022-06-23",
+		"company": "MDfilm",
+		"genresk": [
+			"боевик",
+			" триллер",
+			" криминал"
+		]
+	},
+	{
+		"name": "Суперчел",
+		"name_eng": "Super-héros malgré lui ",
+		"film_link": "https://www.kinopoisk.ru/film/1338752/",
+		"film_rating": "—",
+		"votes": "2",
+		"date": "2022-06-23",
+		"company": "Русский Репортаж",
+		"genresk": [
+			"драма",
+			" комедия"
+		]
+	},
+	{
+		"name": "Венецияфрения",
+		"name_eng": "Veneciafrenia ",
+		"film_link": "https://www.kinopoisk.ru/film/1115756/",
+		"film_rating": "—",
+		"votes": "21",
+		"date": "2022-06-23",
+		"company": "UPI",
+		"genresk": [
+			"мультфильм",
+			" фэнтези",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Самая безумная свадьба 3",
+		"name_eng": "Qu'est-ce qu'on a tous fait au bon Dieu? ",
+		"film_link": "https://www.kinopoisk.ru/film/1445170/",
+		"film_rating": "—",
+		"votes": "28",
+		"date": "2022-06-23",
+		"company": "Экспонента",
+		"genresk": [
+			"мультфильм"
+		]
+	},
+	{
+		"name": "Дела человеческие",
+		"name_eng": "Les choses humaines ",
+		"film_link": "https://www.kinopoisk.ru/film/4450910/",
+		"film_rating": "—",
+		"votes": "57",
+		"date": "2022-06-23",
+		"company": "Парадиз",
+		"genresk": [
+			"биография",
+			" драма"
+		]
+	},
+	{
+		"name": "Молох",
+		"name_eng": "Moloch ",
+		"film_link": "https://www.kinopoisk.ru/film/4518317/",
+		"wait_rating": "—",
+		"votes": "2",
+		"date": "2022-06-23",
+		"company": "Наше Кино",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Школа жен",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1356366/",
+		"wait_rating": "—",
+		"votes": "441",
+		"date": "2022-06-26",
+		"company": "Артхаус",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Моя пиратская свадьба",
+		"name_eng": "Shotgun Wedding ",
+		"film_link": "https://www.kinopoisk.ru/film/80754/",
+		"wait_rating": "95%",
+		"votes": "16525",
+		"date": "2022-06-29",
+		"company": "World Pictures",
+		"genresk": [
+			"драма",
+			" мелодрама"
+		]
+	},
+	{
+		"name": "Миньоны: Грювитация",
+		"name_eng": "Minions: The Rise of Gru ",
+		"film_link": "https://www.kinopoisk.ru/film/1162853/",
+		"wait_rating": "91%",
+		"votes": "13",
+		"date": "2022-06-30",
+		"company": "TheatreHD",
+		"genresk": [
+			"спорт",
+			" драма"
+		]
+	},
+	{
+		"name": "Огр",
+		"name_eng": "Ogre ",
+		"film_link": "https://www.kinopoisk.ru/film/4385452/",
+		"wait_rating": "—",
+		"votes": "283",
+		"date": "2022-06-30",
+		"company": "MDfilm",
+		"genresk": [
+			"комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Держать удар",
+		"name_eng": "Glass Jaw ",
+		"film_link": "https://www.kinopoisk.ru/film/32898/",
+		"film_rating": "—",
+		"votes": "29",
+		"date": "2022-06-00",
+		"company": "UPI",
+		"genresk": [
+			"драма",
+			" комедия",
+			" криминал"
+		]
+	},
+	{
+		"name": "Ракетчик",
+		"name_eng": "Rocketry: The Nambi Effect ",
+		"film_link": "https://www.kinopoisk.ru/film/1045583/",
+		"wait_rating": "—",
+		"votes": "37048",
+		"date": "2022-07-01",
+		"company": "Capella Film",
+		"genresk": [
+			"фэнтези",
+			" комедия",
+			" приключения"
+		]
+	},
+	{
+		"name": "Тор: Любовь и гром",
+		"name_eng": "Thor: Love and Thunder ",
+		"film_link": "https://www.kinopoisk.ru/film/1115098/",
+		"wait_rating": "95%",
+		"votes": "254",
+		"date": "2022-07-07",
+		"company": "Plan B",
+		"genresk": [
+			"фантастика",
+			" боевик",
+			" триллер",
+			" приключения"
+		]
+	},
+	{
+		"name": "Долина дьявола",
+		"name_eng": "Escape The Field ",
+		"film_link": "https://www.kinopoisk.ru/film/4397602/",
+		"wait_rating": "—",
+		"votes": "12",
+		"date": "2022-07-07",
+		"company": "Indian Films",
+		"genresk": [
+			"ужасы",
+			" триллер"
+		]
+	},
+	{
+		"name": "Мужчины на грани нервного срыва",
+		"name_eng": "Hommes au bord de la crise de nerfs ",
+		"film_link": "https://www.kinopoisk.ru/film/4422271/",
+		"film_rating": "—",
+		"votes": "205",
+		"date": "2022-07-07",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Семейка монстров",
+		"name_eng": "Petit vampire ",
+		"film_link": "https://www.kinopoisk.ru/film/1236438/",
+		"film_rating": "—",
+		"votes": "7170",
+		"date": "2022-07-14",
+		"company": "Экспонента",
+		"genresk": [
+			"биография",
+			" военный",
+			" драма",
+			" история",
+			" боевик"
+		]
+	},
+	{
+		"name": "Быстрее пули",
+		"name_eng": "Bullet Train ",
+		"film_link": "https://www.kinopoisk.ru/film/1322661/",
+		"wait_rating": "99%",
+		"votes": "3150",
+		"date": "2022-07-14",
+		"company": "Capella Film",
+		"genresk": [
+			"ужасы",
+			" триллер",
+			" драма"
+		]
+	},
+	{
+		"name": "Элвис",
+		"name_eng": "Elvis ",
+		"film_link": "https://www.kinopoisk.ru/film/1304013/",
+		"wait_rating": "99%",
+		"votes": "49",
+		"date": "2022-07-14",
+		"company": "World Pictures",
+		"genresk": [
+			"семейный"
+		]
+	},
+	{
+		"name": "Певица на всю голову",
+		"name_eng": "Falling for Figaro ",
+		"film_link": "https://www.kinopoisk.ru/film/1313323/",
+		"film_rating": "—",
+		"votes": "1422",
+		"date": "2022-07-14",
+		"company": "СППР",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Дитя тьмы",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1334311/",
+		"wait_rating": "99%",
+		"votes": "26",
+		"date": "2022-07-14",
+		"company": "UPI",
+		"genresk": [
+			"фэнтези"
+		]
+	},
+	{
+		"name": "Призраки прошлого",
+		"name_eng": "Bed Rest ",
+		"film_link": "https://www.kinopoisk.ru/film/4853506/",
+		"wait_rating": "—",
+		"votes": "9",
+		"date": "2022-07-14",
+		"company": "Пионер",
+		"genresk": [
+			"драма",
+			" приключения",
+			" комедия"
+		]
+	},
+	{
+		"name": "Джейн глазами Шарлотты",
+		"name_eng": "Jane par Charlotte ",
+		"film_link": "https://www.kinopoisk.ru/film/4541444/",
+		"film_rating": "—",
+		"votes": "8",
+		"date": "2022-07-14",
+		"company": "Парадиз",
+		"genresk": [
+			"документальный"
+		]
+	},
+	{
+		"name": "Все ненавидят Йохана",
+		"name_eng": "Alle hater Johan ",
+		"film_link": "https://www.kinopoisk.ru/film/4368595/",
+		"film_rating": "—",
+		"votes": "4109",
+		"date": "2022-07-14",
+		"company": "MDfilm",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Базз Лайтер",
+		"name_eng": "Lightyear ",
+		"film_link": "https://www.kinopoisk.ru/film/4319491/",
+		"wait_rating": "99%",
+		"votes": "948",
+		"date": "2022-07-21",
+		"company": "Артхаус",
+		"genresk": [
+			"боевик",
+			" комедия"
+		]
+	},
+	{
+		"name": "Там, где раки поют",
+		"name_eng": "Where the Crawdads Sing ",
+		"film_link": "https://www.kinopoisk.ru/film/1387248/",
+		"wait_rating": "98%",
+		"votes": "16",
+		"date": "2022-07-21",
+		"company": "Русский Репортаж",
+		"genresk": [
+			"ужасы",
+			" триллер",
+			" приключения"
+		]
+	},
+	{
+		"name": "Не звезди",
+		"name_eng": "Menteur ",
+		"film_link": "https://www.kinopoisk.ru/film/1390854/",
+		"wait_rating": "—",
+		"votes": "41",
+		"date": "2022-07-21",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Шамшера",
+		"name_eng": "Shamshera ",
+		"film_link": "https://www.kinopoisk.ru/film/1437370/",
+		"wait_rating": "—",
+		"votes": "9510",
+		"date": "2022-07-22",
+		"company": "СППР",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Чёрный Адам",
+		"name_eng": "Black Adam ",
+		"film_link": "https://www.kinopoisk.ru/film/4439703/",
+		"wait_rating": "97%",
+		"votes": "357",
+		"date": "2022-07-28",
+		"company": "MDfilm",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Исповедь",
+		"name_eng": "Mass ",
+		"film_link": "https://www.kinopoisk.ru/film/4913489/",
+		"film_rating": "7.22",
+		"votes": "225",
+		"date": "2022-07-28",
+		"company": "Indian Films",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Нахимовцы",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1446792/",
+		"wait_rating": "—",
+		"votes": "70",
+		"date": "2022-07-28",
+		"company": "UPI",
+		"genresk": [
+			"боевик",
+			" мелодрама",
+			" комедия"
+		]
+	},
+	{
+		"name": "Неувольняемый",
+		"name_eng": "Irréductible ",
+		"film_link": "https://www.kinopoisk.ru/film/1009513/",
+		"wait_rating": "—",
+		"votes": "41",
+		"date": "2022-07-28",
+		"company": "Экспонента",
+		"genresk": [
+			"мультфильм",
+			" фантастика",
+			" комедия",
+			" криминал",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Самый верный друг",
+		"name_eng": "Meongmongi ",
+		"film_link": "https://www.kinopoisk.ru/film/4480923/",
+		"wait_rating": "—",
+		"votes": "16 031",
+		"date": "2022-07-00",
+		"company": "Каропрокат",
+		"genresk": [
+			"фэнтези",
+			" драма"
+		]
+	},
+	{
+		"name": "Урфин Джюс и его деревянные солдаты",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/853954/",
+		"film_rating": "5.87",
+		"votes": "13237",
+		"date": "2022-08-04",
+		"company": "Capella Film",
+		"genresk": [
+			"триллер",
+			" драма",
+			" спорт"
+		]
+	},
+	{
+		"name": "Неудержимые 4",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1215810/",
+		"wait_rating": "87%",
+		"votes": "8 817",
+		"date": "2022-08-04",
+		"company": "Кинологистика",
+		"genresk": [
+			"драма",
+			" биография"
+		]
+	},
+	{
+		"name": "Урфин Джюс возвращается",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1282688/",
+		"film_rating": "6.71",
+		"votes": "268",
+		"date": "2022-08-04",
+		"company": "Наше Кино",
+		"genresk": [
+			"фэнтези",
+			" боевик",
+			" приключения"
+		]
+	},
+	{
+		"name": "Секретная штаб-квартира",
+		"name_eng": "Secret Headquarters ",
+		"film_link": "https://www.kinopoisk.ru/film/1328884/",
+		"wait_rating": "—",
+		"votes": "833",
+		"date": "2022-08-04",
+		"company": "MDfilm",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Нитрам",
+		"name_eng": "Nitram ",
+		"film_link": "https://www.kinopoisk.ru/film/1303049/",
+		"film_rating": "6.35",
+		"votes": "173",
+		"date": "2022-08-11",
+		"company": "Наше Кино",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Beast",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1111403/",
+		"wait_rating": "—",
+		"votes": "50",
+		"date": "2022-08-11",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"мультфильм",
+			" ужасы",
+			" фэнтези",
+			" семейный"
+		]
+	},
+	{
+		"name": "Двойная петля",
+		"name_eng": "Devotion ",
+		"film_link": "https://www.kinopoisk.ru/film/1392550/",
+		"wait_rating": "—",
+		"votes": "7",
+		"date": "2022-08-18",
+		"company": "Артхаус",
+		"genresk": [
+			"боевик",
+			" триллер"
+		]
+	},
+	{
+		"name": "Moomios",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1179041/",
+		"wait_rating": "—",
+		"votes": "1077",
+		"date": "2022-08-18",
+		"company": "UPI",
+		"genresk": [
+			"биография",
+			" музыка",
+			" драма"
+		]
+	},
+	{
+		"name": "Самаритянин",
+		"name_eng": "Samaritan ",
+		"film_link": "https://www.kinopoisk.ru/film/1165837/",
+		"wait_rating": "96%",
+		"votes": "3330",
+		"date": "2022-08-25",
+		"company": "MDfilm",
+		"genresk": [
+			"мелодрама",
+			" комедия"
+		]
+	},
+	{
+		"name": "После. Долго и счастливо",
+		"name_eng": "After Ever Happy ",
+		"film_link": "https://www.kinopoisk.ru/film/1446032/",
+		"wait_rating": "95%",
+		"votes": "1792",
+		"date": "2022-08-25",
+		"company": "UPI",
+		"genresk": [
+			"ужасы",
+			" триллер",
+			" драма",
+			" криминал",
+			" детектив"
+		]
+	},
+	{
+		"name": "Бордерлендс",
+		"name_eng": "Borderlands ",
+		"film_link": "https://www.kinopoisk.ru/film/929148/",
+		"wait_rating": "98%",
+		"votes": "7",
+		"date": "2022-08-25",
+		"company": "UPI",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Парни не танцуют",
+		"name_eng": "Rumba la vie ",
+		"film_link": "https://www.kinopoisk.ru/film/4476051/",
+		"film_rating": "—",
+		"votes": "7",
+		"date": "2022-08-25",
+		"company": "Вольга",
+		"genresk": [
+			"документальный",
+			" драма",
+			" приключения",
+			" биография"
+		]
+	},
+	{
+		"name": "Окрыленный молитвой",
+		"name_eng": "On a Wing and a Prayer ",
+		"film_link": "https://www.kinopoisk.ru/film/4720113/",
+		"wait_rating": "—",
+		"votes": "137",
+		"date": "2022-08-25",
+		"company": "MDfilm",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Ник и нефритовое дерево",
+		"name_eng": "One Day ",
+		"film_link": "https://www.kinopoisk.ru/film/4291715/",
+		"wait_rating": "—",
+		"votes": "2460",
+		"date": "2022-08-00",
+		"company": "Capella Film",
+		"genresk": [
+			"мультфильм",
+			" фантастика",
+			" боевик",
+			" драма",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Преступления будущего",
+		"name_eng": "Crimes of the Future ",
+		"film_link": "https://www.kinopoisk.ru/film/1396525/",
+		"wait_rating": "99%",
+		"votes": "126",
+		"date": "2022-09-01",
+		"company": "Парадиз",
+		"genresk": [
+			"драма",
+			" детектив"
+		]
+	},
+	{
+		"name": "Диана: Мюзикл",
+		"name_eng": "Diana ",
+		"film_link": "https://www.kinopoisk.ru/film/4422926/",
+		"film_rating": "—",
+		"votes": "677",
+		"date": "2022-09-01",
+		"company": "Парадиз",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Молодой человек",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1158460/",
+		"wait_rating": "95%",
+		"votes": "26",
+		"date": "2022-09-01",
+		"company": "Capella Film",
+		"genresk": [
+			"боевик",
+			" история"
+		]
+	},
+	{
+		"name": "Царство против разбойников",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1009017/",
+		"wait_rating": "—",
+		"votes": "8857",
+		"date": "2022-09-01",
+		"company": "Планета Информ",
+		"genresk": [
+			"фантастика",
+			" фэнтези",
+			" боевик"
+		]
+	},
+	{
+		"name": "МЫ",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1330409/",
+		"wait_rating": "93%",
+		"votes": "23",
+		"date": "2022-09-08",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Вихрь",
+		"name_eng": "Vortex ",
+		"film_link": "https://www.kinopoisk.ru/film/1403069/",
+		"film_rating": "—",
+		"votes": "286",
+		"date": "2022-09-08",
+		"company": "Наше Кино",
+		"genresk": [
+			"детский"
+		]
+	},
+	{
+		"name": "Salem's Lot",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4294267/",
+		"wait_rating": "98%",
+		"votes": "2359",
+		"date": "2022-09-08",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Не волнуйся, солнышко",
+		"name_eng": "Don't Worry, Darling ",
+		"film_link": "https://www.kinopoisk.ru/film/1278935/",
+		"wait_rating": "98%",
+		"votes": "3698",
+		"date": "2022-09-22",
+		"company": "Артхаус",
+		"genresk": [
+			"мелодрама",
+			" комедия"
+		]
+	},
+	{
+		"name": "Сердце Пармы",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/839111/",
+		"wait_rating": "96%",
+		"votes": "4 584",
+		"date": "2022-10-06",
+		"company": "UPI",
+		"genresk": [
+			"мультфильм",
+			" приключения",
+			" детский",
+			" семейный",
+			" фэнтези"
+		]
+	},
+	{
+		"name": "Джиперс Криперс: Возрожденный",
+		"name_eng": "Jeepers Creepers: Reborn ",
+		"film_link": "https://www.kinopoisk.ru/film/806964/",
+		"film_rating": "—",
+		"votes": "350",
+		"date": "2022-10-06",
+		"company": "UPI",
+		"genresk": [
+			"боевик",
+			" триллер",
+			" приключения",
+			" военный"
+		]
+	},
+	{
+		"name": "Тень Караваджо",
+		"name_eng": "L'ombra di Caravaggio ",
+		"film_link": "https://www.kinopoisk.ru/film/1113015/",
+		"wait_rating": "98%",
+		"votes": "45",
+		"date": "2022-10-06",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"мультфильм",
+			" детский"
+		]
+	},
+	{
+		"name": "Distant",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4441081/",
+		"wait_rating": "—",
+		"votes": "67",
+		"date": "2022-10-06",
+		"company": "Парадиз",
+		"genresk": [
+			"фантастика",
+			" боевик",
+			" приключения"
+		]
+	},
+	{
+		"name": "Дыхание",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4383036/",
+		"wait_rating": "—",
+		"votes": "2783",
+		"date": "2022-10-06",
+		"company": "Экспонента",
+		"genresk": [
+			"триллер",
+			" драма"
+		]
+	},
+	{
+		"name": "Хэллоуин заканчивается",
+		"name_eng": "Halloween Ends ",
+		"film_link": "https://www.kinopoisk.ru/film/4367064/",
+		"wait_rating": "96%",
+		"votes": "156",
+		"date": "2022-10-13",
+		"company": "UPI",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Нуучча",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1318888/",
+		"film_rating": "—",
+		"votes": "2045",
+		"date": "2022-10-13",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"боевик",
+			" драма",
+			" военный"
+		]
+	},
+	{
+		"name": "Декабрь",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4833768/",
+		"wait_rating": "88%",
+		"votes": "156",
+		"date": "2022-10-20",
+		"company": "UPI",
+		"genresk": [
+			"мультфильм"
+		]
+	},
+	{
+		"name": "Миссис Харрис едет в Париж",
+		"name_eng": "Mrs. Harris Goes to Paris ",
+		"film_link": "https://www.kinopoisk.ru/film/1309557/",
+		"wait_rating": "—",
+		"votes": "18467",
+		"date": "2022-10-20",
+		"company": "Capella Film",
+		"genresk": [
+			"фантастика",
+			" фэнтези",
+			" боевик",
+			" драма"
+		]
+	},
+	{
+		"name": "Человек-паук: Через вселенные 2",
+		"name_eng": "Spider-Man: Across the Spider-Verse - Part One ",
+		"film_link": "https://www.kinopoisk.ru/film/1411988/",
+		"wait_rating": "97%",
+		"votes": "55",
+		"date": "2022-10-22",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"драма",
+			" мелодрама"
+		]
+	},
+	{
+		"name": "Зловещий свет",
+		"name_eng": "The Devil's Light ",
+		"film_link": "https://www.kinopoisk.ru/film/968031/",
+		"film_rating": "—",
+		"votes": "149",
+		"date": "2022-10-27",
+		"company": "UPI",
+		"genresk": [
+			"фантастика",
+			" боевик",
+			" триллер",
+			" комедия",
+			" приключения"
+		]
+	},
+	{
+		"name": "Мармадюк",
+		"name_eng": "Marmaduke ",
+		"film_link": "https://www.kinopoisk.ru/film/1366038/",
+		"wait_rating": "—",
+		"votes": "136",
+		"date": "2022-10-27",
+		"company": "СППР",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Незваные",
+		"name_eng": "Unwelcome ",
+		"film_link": "https://www.kinopoisk.ru/film/4490955/",
+		"wait_rating": "—",
+		"votes": "50",
+		"date": "2022-10-27",
+		"company": "Парадиз",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Темная жатва",
+		"name_eng": "Dark Harvest ",
+		"film_link": "https://www.kinopoisk.ru/film/1330196/",
+		"wait_rating": "—",
+		"votes": "13",
+		"date": "2022-10-27",
+		"company": "Наше Кино",
+		"genresk": [
+			"мультфильм"
+		]
+	},
+	{
+		"name": "Ужас вороньей лощины: Проклятье Эдгара По",
+		"name_eng": "Raven's Hollow ",
+		"film_link": "https://www.kinopoisk.ru/film/4440349/",
+		"wait_rating": "—",
+		"votes": "48500",
+		"date": "2022-10-00",
+		"company": "Экспонента",
+		"genresk": [
+			"ужасы",
+			" фантастика",
+			" драма"
+		]
+	},
+	{
+		"name": "Флэш",
+		"name_eng": "The Flash ",
+		"film_link": "https://www.kinopoisk.ru/film/1437513/",
+		"wait_rating": "87%",
+		"votes": "2531",
+		"date": "2022-11-03",
+		"company": "UPI",
+		"genresk": [
+			"мюзикл",
+			" драма",
+			" биография"
+		]
+	},
+	{
+		"name": "14+: Продолжение",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4400203/",
+		"wait_rating": "96%",
+		"votes": "1602",
+		"date": "2022-11-03",
+		"company": "Планета Информ",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Одна",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4853046/",
+		"wait_rating": "93%",
+		"votes": "72",
+		"date": "2022-11-03",
+		"company": "UPI",
+		"genresk": [
+			"мультфильм"
+		]
+	},
+	{
+		"name": "Тень",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1108401/",
+		"wait_rating": "—",
+		"votes": "83",
+		"date": "2022-11-03",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"фантастика",
+			" драма"
+		]
+	},
+	{
+		"name": "White Bird: A Wonder Story",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4476408/",
+		"wait_rating": "—",
+		"votes": "5",
+		"date": "2022-11-03",
+		"company": "СППР",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Untitled Bee Gees Biopic",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4511796/",
+		"wait_rating": "—",
+		"votes": "12885",
+		"date": "2022-11-03",
+		"company": "Каропрокат",
+		"genresk": [
+			"ужасы",
+			" триллер"
+		]
+	},
+	{
+		"name": "Чёрная Пантера: Ваканда навсегда",
+		"name_eng": "Black Panther: Wakanda Forever ",
+		"film_link": "https://www.kinopoisk.ru/film/1379512/",
+		"wait_rating": "94%",
+		"votes": "167",
+		"date": "2022-11-10",
+		"company": "Экспонента",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Spellbound",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1045585/",
+		"wait_rating": "—",
+		"votes": "512",
+		"date": "2022-11-10",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"драма",
+			" история"
+		]
+	},
+	{
+		"name": "13 жизней",
+		"name_eng": "Thirteen Lives ",
+		"film_link": "https://www.kinopoisk.ru/film/4396744/",
+		"wait_rating": "",
+		"votes": "14",
+		"date": "2022-11-17",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Lyle, Lyle, Crocodile",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1355282/",
+		"wait_rating": "—",
+		"votes": "9",
+		"date": "2022-11-17",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"биография",
+			" история"
+		]
+	},
+	{
+		"name": "La Niña de la Comunión",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1337679/",
+		"wait_rating": "—",
+		"votes": "175",
+		"date": "2022-11-17",
+		"company": "UPI",
+		"genresk": [
+			"фантастика",
+			" драма"
+		]
+	},
+	{
+		"name": "Странный мир",
+		"name_eng": "Strange World ",
+		"film_link": "https://www.kinopoisk.ru/film/4715481/",
+		"wait_rating": "—",
+		"votes": "3236",
+		"date": "2022-11-22",
+		"company": "СППР",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Нюрнберг",
+		"name_eng": "Nurnberg ",
+		"film_link": "https://www.kinopoisk.ru/film/1286174/",
+		"wait_rating": "94%",
+		"votes": "78",
+		"date": "2022-11-24",
+		"company": "Экспонента",
+		"genresk": [
+			"ужасы",
+			" триллер"
+		]
+	},
+	{
+		"name": "Честный развод 2",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1398919/",
+		"wait_rating": "—",
+		"votes": "13",
+		"date": "2022-12-08",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Тайный Санта",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1234806/",
+		"wait_rating": "—",
+		"votes": "8",
+		"date": "2022-12-08",
+		"company": "UPI",
+		"genresk": [
+			"драма",
+			" триллер",
+			" биография",
+			" история"
+		]
+	},
+	{
+		"name": "Жестокая ночь",
+		"name_eng": "Violent Night ",
+		"film_link": "https://www.kinopoisk.ru/film/978552/",
+		"wait_rating": "—",
+		"votes": "147202",
+		"date": "2022-12-08",
+		"company": "MDfilm",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Аватар 2",
+		"name_eng": "Avatar 2 ",
+		"film_link": "https://www.kinopoisk.ru/film/1219177/",
+		"wait_rating": "90%",
+		"votes": "11831",
+		"date": "2022-12-15",
+		"company": "Наше Кино",
+		"genresk": [
+			"мультфильм",
+			" фантастика",
+			" фэнтези",
+			" боевик",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Аквамен 2",
+		"name_eng": "Aquaman and the Lost Kingdom ",
+		"film_link": "https://www.kinopoisk.ru/film/1381319/",
+		"wait_rating": "91%",
+		"votes": "352",
+		"date": "2022-12-15",
+		"company": "UPI",
+		"genresk": [
+			"ужасы",
+			" триллер"
+		]
+	},
+	{
+		"name": "Untitled Super Mario Project",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1210742/",
+		"wait_rating": "97%",
+		"votes": "50",
+		"date": "2022-12-22",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"мультфильм",
+			" комедия",
+			" приключения"
+		]
+	},
+	{
+		"name": "I Wanna Dance with Somebody",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1413673/",
+		"wait_rating": "—",
+		"votes": "193",
+		"date": "2022-12-22",
+		"company": "UPI",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Донкихот",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4633259/",
+		"wait_rating": "—",
+		"votes": "109 774",
+		"date": "2022-12-23",
+		"company": "UPI",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Иван Царевич и Серый Волк",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4547029/",
+		"film_rating": "6.63",
+		"votes": "469",
+		"date": "2022-12-29",
+		"company": "СППР",
+		"genresk": [
+			"триллер"
+		]
+	},
+	{
+		"name": "Клипмейкеры",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/195483/",
+		"wait_rating": "97%",
+		"votes": "50",
+		"date": "2022-12-29",
+		"company": "Ten Letters",
+		"genresk": [
+			"фантастика",
+			" фэнтези",
+			" боевик",
+			" приключения"
+		]
+	},
+	{
+		"name": "Рождение империи",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4489519/",
+		"wait_rating": "—",
+		"votes": "9793",
+		"date": "2022-12-29",
+		"company": "СППР",
+		"genresk": [
+			"мелодрама"
+		]
+	},
+	{
+		"name": "Воланд",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4497446/",
+		"wait_rating": "97%",
+		"votes": "1056",
+		"date": "2023-01-01",
+		"company": "СППР",
+		"genresk": [
+			"драма",
+			" приключения",
+			" триллер"
+		]
+	},
+	{
+		"name": "Чебурашка",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4625021/",
+		"wait_rating": "98%",
+		"votes": "2",
+		"date": "2023-01-01",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"приключения",
+			" драма"
+		]
+	},
+	{
+		"name": "Гнездо тигра",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4384109/",
+		"wait_rating": "—",
+		"votes": "111",
+		"date": "2023-01-01",
+		"company": "UPI",
+		"genresk": [
+			"драма",
+			" военный",
+			" биография"
+		]
+	},
+	{
+		"name": "Щелкунчик и волшебная флейта",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4858987/",
+		"wait_rating": "—",
+		"votes": "421",
+		"date": "2023-01-05",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"драма",
+			" биография",
+			" музыка"
+		]
+	},
+	{
+		"name": "Фабельманы",
+		"name_eng": "The Fabelmans ",
+		"film_link": "https://www.kinopoisk.ru/film/1199773/",
+		"wait_rating": "98%",
+		"votes": "802",
+		"date": "2023-01-05",
+		"company": "MDfilm",
+		"genresk": [
+			"фантастика",
+			" боевик",
+			" триллер",
+			" драма",
+			" приключения"
+		]
+	},
+	{
+		"name": "The Nightingale",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1069072/",
+		"wait_rating": "95%",
+		"votes": "10",
+		"date": "2023-01-12",
+		"company": "СППР",
+		"genresk": [
+			"мультфильм",
+			" мюзикл",
+			" фэнтези",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Клеймо",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1382211/",
+		"wait_rating": "—",
+		"votes": "15",
+		"date": "2023-01-19",
+		"company": "UPI",
+		"genresk": [
+			"триллер",
+			" драма",
+			" биография"
+		]
+	},
+	{
+		"name": "Harold and the Purple Crayon",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4511239/",
+		"wait_rating": "—",
+		"votes": "41",
+		"date": "2023-01-26",
+		"company": "СППР",
+		"genresk": [
+			"мультфильм",
+			" мюзикл",
+			" фэнтези",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "She Said",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4853632/",
+		"wait_rating": "—",
+		"votes": "91",
+		"date": "2023-02-02",
+		"company": "Каропрокат",
+		"genresk": [
+			"ужасы"
+		]
+	},
+	{
+		"name": "Ученик тигра",
+		"name_eng": "Tiger's Apprentice ",
+		"film_link": "https://www.kinopoisk.ru/film/4673457/",
+		"wait_rating": "—",
+		"votes": "11321",
+		"date": "2023-02-09",
+		"company": "СППР",
+		"genresk": [
+			"мультфильм",
+			" фантастика",
+			" фэнтези",
+			" боевик",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Марвелы",
+		"name_eng": "The Marvels ",
+		"film_link": "https://www.kinopoisk.ru/film/905033/",
+		"wait_rating": "93%",
+		"votes": "2002",
+		"date": "2023-02-17",
+		"company": "UPI",
+		"genresk": [
+			"история",
+			" драма",
+			" военный",
+			" триллер",
+			" приключения"
+		]
+	},
+	{
+		"name": "Подземелье драконов",
+		"name_eng": "Dungeons & Dragons ",
+		"film_link": "https://www.kinopoisk.ru/film/4856074/",
+		"wait_rating": "97%",
+		"votes": "32",
+		"date": "2023-03-02",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Поехавшая",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4901797/",
+		"wait_rating": "—",
+		"votes": "3193",
+		"date": "2023-03-08",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"—"
+		]
+	},
+	{
+		"name": "Вилли Вонка",
+		"name_eng": "Wonka ",
+		"film_link": "https://www.kinopoisk.ru/film/4860756/",
+		"wait_rating": "98%",
+		"votes": "383",
+		"date": "2023-03-16",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"ужасы",
+			" триллер"
+		]
+	},
+	{
+		"name": "65",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/505898/",
+		"wait_rating": "99%",
+		"votes": "24013",
+		"date": "2023-04-13",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"фантастика",
+			" боевик",
+			" триллер",
+			" приключения"
+		]
+	},
+	{
+		"name": "Форсаж 10",
+		"name_eng": "Fast & Furious 10 ",
+		"film_link": "https://www.kinopoisk.ru/film/1234997/",
+		"wait_rating": "84%",
+		"votes": "5371",
+		"date": "2023-05-18",
+		"company": "UPI",
+		"genresk": [
+			"фантастика",
+			" фэнтези",
+			" боевик",
+			" приключения"
+		]
+	},
+	{
+		"name": "Шазам! 2",
+		"name_eng": "Shazam! Fury of the Gods ",
+		"film_link": "https://www.kinopoisk.ru/film/1111005/",
+		"wait_rating": "97%",
+		"votes": "12012",
+		"date": "2023-06-01",
+		"company": "СППР",
+		"genresk": [
+			"мультфильм",
+			" фантастика",
+			" фэнтези",
+			" мелодрама",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Трансформеры: Восхождение Звероботов",
+		"name_eng": "Transformers: Rise of the Beasts ",
+		"film_link": "https://www.kinopoisk.ru/film/4542569/",
+		"wait_rating": "89%",
+		"votes": "34538",
+		"date": "2023-06-08",
+		"company": "UPI",
+		"genresk": [
+			"биография",
+			" музыка"
+		]
+	},
+	{
+		"name": "Индиана Джонс 5",
+		"name_eng": "Untitled Indiana Jones Project ",
+		"film_link": "https://www.kinopoisk.ru/film/1355067/",
+		"wait_rating": "84%",
+		"votes": "9936",
+		"date": "2023-06-29",
+		"company": "UPI",
+		"genresk": [
+			"мультфильм",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Миссия: невыполнима 7",
+		"name_eng": "Mission: Impossible 7 ",
+		"film_link": "https://www.kinopoisk.ru/film/406175/",
+		"wait_rating": "98%",
+		"votes": "200",
+		"date": "2023-07-13",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"мультфильм",
+			" фэнтези",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Койот против «Акме»",
+		"name_eng": "Coyote vs. Acme ",
+		"film_link": "https://www.kinopoisk.ru/film/4534033/",
+		"wait_rating": "88%",
+		"votes": "6002",
+		"date": "2023-07-20",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Человек-муравей и Оса: Квантомания",
+		"name_eng": "Ant-Man and the Wasp: Quantumania ",
+		"film_link": "https://www.kinopoisk.ru/film/4859012/",
+		"wait_rating": "98%",
+		"votes": "586",
+		"date": "2023-07-28",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"драма",
+			" история"
+		]
+	},
+	{
+		"name": "Черепашки-ниндзя",
+		"name_eng": "Teenage Mutant Ninja Turtles: The Next Chapter ",
+		"film_link": "https://www.kinopoisk.ru/film/1115471/",
+		"wait_rating": "94%",
+		"votes": "4530",
+		"date": "2023-08-03",
+		"company": "UPI",
+		"genresk": [
+			"драма",
+			" фэнтези"
+		]
+	},
+	{
+		"name": "Тихое место 3",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4370148/",
+		"wait_rating": "98%",
+		"votes": "8",
+		"date": "2023-09-21",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"семейный"
+		]
+	},
+	{
+		"name": "The Shrinking of Treehorn",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4480095/",
+		"wait_rating": "—",
+		"votes": "35",
+		"date": "2023-11-09",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"приключения"
+		]
+	},
+	{
+		"name": "Imaginary Friends",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/1435400/",
+		"wait_rating": "—",
+		"votes": "65",
+		"date": "2023-11-16",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"мультфильм"
+		]
+	},
+	{
+		"name": "Цвет лиловый",
+		"name_eng": "The Color Purple ",
+		"film_link": "https://www.kinopoisk.ru/film/4472502/",
+		"wait_rating": "—",
+		"votes": "19397",
+		"date": "2023-12-20",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Звёздный путь 4",
+		"name_eng": "Untitled Star Trek Sequel ",
+		"film_link": "https://www.kinopoisk.ru/film/1048128/",
+		"wait_rating": "92%",
+		"votes": "405",
+		"date": "2023-12-21",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"драма",
+			" военный",
+			" история"
+		]
+	},
+	{
+		"name": "Rogue Squadron",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/4766122/",
+		"wait_rating": "95%",
+		"votes": "400",
+		"date": "2023-12-21",
+		"company": "UPI",
+		"genresk": [
+			"комедия"
+		]
+	},
+	{
+		"name": "Сто лет тому вперед",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/505902/",
+		"wait_rating": "87%",
+		"votes": "228",
+		"date": "2023-12-28",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"мультфильм",
+			" фэнтези",
+			" семейный"
+		]
+	},
+	{
+		"name": "Властелин колец: Война рохирримов",
+		"name_eng": "The Lord of the Rings: The War of the Rohirrim ",
+		"film_link": "https://www.kinopoisk.ru/film/4502700/",
+		"wait_rating": "—",
+		"votes": "1351",
+		"date": "2024-04-11",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"драма"
+		]
+	},
+	{
+		"name": "Фьюриоса",
+		"name_eng": "Furiosa ",
+		"film_link": "https://www.kinopoisk.ru/film/1304187/",
+		"wait_rating": "99%",
+		"votes": "4296",
+		"date": "2024-05-23",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"мультфильм",
+			" фэнтези",
+			" боевик",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Миссия: невыполнима 8",
+		"name_eng": "Mission: Impossible 8 ",
+		"film_link": "https://www.kinopoisk.ru/film/1287544/",
+		"wait_rating": "98%",
+		"votes": "10",
+		"date": "2024-06-27",
+		"company": "UPI",
+		"genresk": [
+			"фантастика",
+			" фэнтези",
+			" боевик",
+			" приключения"
+		]
+	},
+	{
+		"name": "Untitled Transformers Animation",
+		"name_eng": "",
+		"film_link": "https://www.kinopoisk.ru/film/762646/",
+		"wait_rating": "—",
+		"votes": "49127",
+		"date": "2024-07-18",
+		"company": "UPI",
+		"genresk": [
+			"фэнтези",
+			" боевик",
+			" приключения"
+		]
+	},
+	{
+		"name": "Аватар 3",
+		"name_eng": "Avatar 3 ",
+		"film_link": "https://www.kinopoisk.ru/film/4686066/",
+		"wait_rating": "86%",
+		"votes": "28064",
+		"date": "2024-12-19",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"мелодрама"
+		]
+	},
+	{
+		"name": "Аватар 4",
+		"name_eng": "Avatar 4 ",
+		"film_link": "https://www.kinopoisk.ru/film/1013343/",
+		"wait_rating": "84%",
+		"votes": "7988",
+		"date": "2026-12-17",
+		"company": "Централ Партнершип",
+		"genresk": [
+			"мюзикл",
+			" фэнтези",
+			" комедия",
+			" приключения",
+			" семейный"
+		]
+	},
+	{
+		"name": "Аватар 5",
+		"name_eng": "Avatar 5 ",
+		"film_link": "https://www.kinopoisk.ru/film/1382210/",
+		"wait_rating": "92%",
+		"date": "2028-12-21",
+		"company": "Дисней Студиос",
+		"genresk": [
+			"фантастика",
+			" триллер"
+		]
+	}
+]
